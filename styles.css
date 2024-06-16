@@ -47,11 +47,11 @@ p {
 }
 
 @media (max-width: 768px) {
-    /* Media Query für kleinere Bildschirme (z.B. Tablets und Handys) */
     .Infotext {
         width: 90%; /* Breite des Infotextes auf 90% des Bildschirms reduzieren */
-        font-size: 1em; /* Kleinere Schriftgröße für Mobilgeräte */
+        font-size: 0.9em; /* Kleinere Schriftgröße für Mobilgeräte */
         line-height: 1.4; /* Zeilenhöhe für Mobilgeräte anpassen */
     }
 }
+
 
