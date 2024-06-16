@@ -42,7 +42,7 @@ p {
     width: 80%; /* Breite des Infotextes auf 80% des Bildschirms */
     margin: 0 auto; /* Zentrieren des Infotextes horizontal */
     font-family: 'Playfair Display', serif;
-    font-size: 1.2em; /* Textgröße anpassen */
+    font-size: 0.5em; /* Textgröße anpassen */
     line-height: 1.6; /* Zeilenhöhe erhöhen für bessere Lesbarkeit */
 }
 
