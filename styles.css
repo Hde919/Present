@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 90%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #e8f5e9;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    color: #2e7d32;
+    font-size: 2em;
+    margin-bottom: 10px;
+	  font-family: 'Great Vibes', cursive;
+}
+
+p {
+    color: #4caf50;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.map-container {
+    width: 100%;
+    height: 500px;
+    margin: 20px 0;
+    border: 2px solid #a5d6a7;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.Infotext {
+    text-align: justify center; /* Text linksbündig ausrichten */
+    width: 50%; /* Breite des Infotextes */
+    margin: 0 auto; /* Zentrieren des Infotextes horizontal */
+	font-family: 'Playfair Display', serif;
+	font-size: 200%;
+}
